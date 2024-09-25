@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Crud_C#/.vs
+/Crud_C#/CrudAppStorm/bin/Debug/net8
+/Crud_C#/CrudAppStorm/obj
+/Crud_C#/CrudAppStorm.ComponentsTests/bin/Debug/net8.0
+/Crud_C#/CrudAppStorm.ComponentsTests/obj
+/Crud_C#/packages
